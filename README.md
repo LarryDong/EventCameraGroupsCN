@@ -31,5 +31,22 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](http://op
 *[Reducing-Over-Time Tree for Event-based Data](https://ieeexplore.ieee.org/abstract/document/9655493)*,  
 International Conference on Pattern Recognition (ICPR), 2020.
 - <a name="Kong20Arxiv"></a> Kong, D., Fang, Z., Li, H., Hou, K., Coleman, S., Kerr, D.,  
-*[Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition](https://arxiv.org/abs/2011.03290)*,
+*[Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition](https://arxiv.org/abs/2011.03290)*,  
 arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
+
+
+## 武汉大学 杨文##
+武汉大学信息与通信工程系  
+**Team Leader**：杨文（教授）  
+**教师首页**：[官方介绍](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00200590), [ResearchGate](https://www.researchgate.net/profile/Wen-Yang-45), [Google Scholar](https://scholar.google.com.hk/citations?user=-aVL-UQAAAAJ&hl=en)  
+**实验室相关介绍**：[http://dsp.whu.edu.cn/info/1049/1221.htm](http://dsp.whu.edu.cn/info/1049/1221.htm)  
+**部分研究成果**：  
+- <a name="Su20icip"></a>Su, B., Yu, L., Yang, W.  
+*[Event-Based High Frame-Rate Video Reconstruction With A Novel Cycle-Event Network](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2020.  
+- <a name="Xu21iccv"></a> Xu, F., Yu, L., Wang, B., Yang, W., Xia, G., Jia, X., Qiao, Z., Liu, J.,  
+*[Motion Deblurring With Real Events ](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
+Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Motion_Deblurring_With_ICCV_2021_supplemental.pdf)
+
+
+
