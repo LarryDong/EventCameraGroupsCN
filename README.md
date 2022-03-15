@@ -35,7 +35,7 @@ International Conference on Pattern Recognition (ICPR), 2020.
 arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
 
 
-## 武汉大学 杨文##
+## 武汉大学 杨文
 武汉大学信息与通信工程系  
 **Team Leader**：杨文（教授）  
 **教师首页**：[官方介绍](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00200590), [ResearchGate](https://www.researchgate.net/profile/Wen-Yang-45), [Google Scholar](https://scholar.google.com.hk/citations?user=-aVL-UQAAAAJ&hl=en)  
