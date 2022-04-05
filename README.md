@@ -47,6 +47,4 @@ IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="Xu21iccv"></a> Xu, F., Yu, L., Wang, B., Yang, W., Xia, G., Jia, X., Qiao, Z., Liu, J.,  
 *[Motion Deblurring With Real Events ](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Motion_Deblurring_With_ICCV_2021_supplemental.pdf)
-
-
-
+- <a name="Yu21AAS"></a> 余磊,廖伟,周游龙,杨文,夏桂松.基于事件相机的合成孔径成像[J/OL].自动化学报:1-14[2022-04-05].DOI:10.16383/j.aas.c200388.
