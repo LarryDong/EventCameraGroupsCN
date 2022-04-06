@@ -35,7 +35,7 @@ International Conference on Pattern Recognition (ICPR), 2020.
 arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
 
 
-## 武汉大学 余磊
+## DVS-WHU Group @ 武汉大学 
 武汉大学信息与通信工程系  
 **Team Leader**：余磊（副教授）  
 **实验室主页**：[http://dvs-whu.cn](http://dvs-whu.cn)  
