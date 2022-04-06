@@ -35,16 +35,20 @@ International Conference on Pattern Recognition (ICPR), 2020.
 arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
 
 
-## 武汉大学 杨文
+## 武汉大学 余磊
 武汉大学信息与通信工程系  
-**Team Leader**：杨文（教授）  
-**教师首页**：[官方介绍](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00200590), [ResearchGate](https://www.researchgate.net/profile/Wen-Yang-45), [Google Scholar](https://scholar.google.com.hk/citations?user=-aVL-UQAAAAJ&hl=en)  
-**实验室相关介绍**：[http://dsp.whu.edu.cn/info/1049/1221.htm](http://dsp.whu.edu.cn/info/1049/1221.htm)  
+**Team Leader**：余磊（副教授）  
+**实验室主页**：[http://dvs-whu.cn](http://dvs-whu.cn)  
 **部分研究成果**：  
 - <a name="Su20icip"></a>Su, B., Yu, L., Yang, W.  
 *[Event-Based High Frame-Rate Video Reconstruction With A Novel Cycle-Event Network](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.  
 - <a name="Xu21iccv"></a> Xu, F., Yu, L., Wang, B., Yang, W., Xia, G., Jia, X., Qiao, Z., Liu, J.,  
 *[Motion Deblurring With Real Events ](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
-Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Motion_Deblurring_With_ICCV_2021_supplemental.pdf)
+Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Motion_Deblurring_With_ICCV_2021_supplemental.pdf), [Code](https://github.com/xufangchn/Motion-Deblurring-with-Real-Events)
 - <a name="Yu21AAS"></a> 余磊,廖伟,周游龙,杨文,夏桂松.基于事件相机的合成孔径成像[J/OL].自动化学报:1-14[2022-04-05].DOI:10.16383/j.aas.c200388.
+- <a name="Zhang21CVPR"></a> Wang, B., He, J., Yu, L., Xia, G., Yang, W.,  
+*[Event-based Synthetic Aperture Imaging with a Hybrid Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. 
+[PDF](http://arxiv.org/abs/2103.02376), [Code](https://github.com/dvs-whu/E-SAI), [YouTube](https://youtu.be/vom7qcZ7t9Y), [Youku](https://v.youku.com/v_show/id_XNTE3MzczMzc2MA==.html)
+
