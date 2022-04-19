@@ -71,8 +71,8 @@ IEEE Transactions on Neural Networks and Learning Systems 2021. [PDF](https://ar
 
 # Acknowledgement
 Thanks for following people who provide useful links:  
-Prof. Yu Lei from [DVS-WHU](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#dvs-whu-group--%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6)  
-[lyh983012](https://github.com/lyh983012) from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#cbicr--thu)  
+Prof. Yu Lei, from [DVS-WHU](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#dvs-whu-group--%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6)  
+[lyh983012](https://github.com/lyh983012), from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#cbicr--thu)  
 
 # TODOs
 References are not formatted well. To be corrected.
