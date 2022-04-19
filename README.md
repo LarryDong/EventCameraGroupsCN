@@ -7,7 +7,7 @@
 北京大学智能相机实验室  
 **Team Leader**：施柏鑫（研究员）  
 **实验室主页**：[https://ci.idm.pku.edu.cn/index.htm](https://ci.idm.pku.edu.cn/index.htm)  
-**部分研究成果**
+**部分研究成果**:
 - <a name="Duan21cvpr"></a>Duan, P., Wang, Z. W., Zhou, X., Ma, Y., Shi, B.,  
 *[EventZoom: Learning To Denoise and Super Resolve Neuromorphic Events](https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_EventZoom_Learning_To_Denoise_and_Super_Resolve_Neuromorphic_Events_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](https://sites.google.com/view/EventZoom), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Duan_EventZoom_Learning_To_CVPR_2021_supplemental.zip)
@@ -52,3 +52,27 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. 
 [PDF](http://arxiv.org/abs/2103.02376), [Code](https://github.com/dvs-whu/E-SAI), [YouTube](https://youtu.be/vom7qcZ7t9Y), [Youku](https://v.youku.com/v_show/id_XNTE3MzczMzc2MA==.html)
 
+
+
+## CBICR @ THU
+清华大学类脑计算研究中心  
+**Team Leader**: 施路平（教授）  
+**实验室主页**：暂缺待填补  
+**部分研究成果**：  
+- <a name="Li17Neurosci"></a>Hongmin, L., Hanchao, L., Xiangyang, J., Guoqi, L., Luping S.   
+*[CIFAR10-DVS: An Event-Stream Dataset for Object Classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00309/full)*  
+Frontiers in Neuroscience (Front. Neurosci.), 2017. [Dataset](https://figshare.com/articles/dataset/CIFAR10-DVS_New/4724671/2)  
+- <a name="Wu21Trans"></a>Zhenzhi, W., Hehui, Z., Yihan, L., Guoqi, L., Meng, W., Ye, T.  
+*[LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing](https://ieeexplore.ieee.org/document/9429228)*  
+IEEE Transactions on Neural Networks and Learning Systems 2021.  
+- <a name="Zhang19ArXiv"></a>Zheyu, Y., Yujie, W., Guanrui, W., Yukuan, Y., Guoqi, L., Lei D., Jun Z., Luping S.  
+*[DashNet: A Hybrid Artificial and Spiking Neural Network for High-speed Object Tracking](https://arxiv.org/abs/1909.12942)*  
+IEEE Transactions on Neural Networks and Learning Systems 2021. [PDF](https://arxiv.org/pdf/1909.12942.pdf)
+
+# Acknowledgement
+Thanks for following people who provide useful links:  
+Prof. Yu Lei from [DVS-WHU](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#dvs-whu-group--%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6)  
+[lyh983012](https://github.com/lyh983012) from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#cbicr--thu)  
+
+# TODOs
+References are not formatted well. To be corrected.
