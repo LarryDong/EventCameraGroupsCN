@@ -60,13 +60,13 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021.
 **实验室主页**：暂缺待填补  
 **部分研究成果**：  
 - <a name="Li17Neurosci"></a>Hongmin, L., Hanchao, L., Xiangyang, J., Guoqi, L., Luping S.   
-*[CIFAR10-DVS: An Event-Stream Dataset for Object Classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00309/full)*  
+*[CIFAR10-DVS: An Event-Stream Dataset for Object Classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00309/full)*,  
 Frontiers in Neuroscience (Front. Neurosci.), 2017. [Dataset](https://figshare.com/articles/dataset/CIFAR10-DVS_New/4724671/2)  
 - <a name="Wu21Trans"></a>Zhenzhi, W., Hehui, Z., Yihan, L., Guoqi, L., Meng, W., Ye, T.  
 *[LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing](https://ieeexplore.ieee.org/document/9429228)*  
 IEEE Transactions on Neural Networks and Learning Systems 2021.  
 - <a name="Zhang19ArXiv"></a>Zheyu, Y., Yujie, W., Guanrui, W., Yukuan, Y., Guoqi, L., Lei D., Jun Z., Luping S.  
-*[DashNet: A Hybrid Artificial and Spiking Neural Network for High-speed Object Tracking](https://arxiv.org/abs/1909.12942)*  
+*[DashNet: A Hybrid Artificial and Spiking Neural Network for High-speed Object Tracking](https://arxiv.org/abs/1909.12942)*,  
 IEEE Transactions on Neural Networks and Learning Systems 2021. [PDF](https://arxiv.org/pdf/1909.12942.pdf)
 
 
@@ -75,16 +75,47 @@ IEEE Transactions on Neural Networks and Learning Systems 2021. [PDF](https://ar
 **Team Leader**：黄铁军（教授）  
 **个人主页**： [北大官网](https://idm.pku.edu.cn/info/1017/1040.htm) [Google Scholar](https://scholar.google.com/citations?user=knvEK4AAAAAJ&hl=zh-CN)  
 **部分研究成果**：
-- <a name="Li22TIP"></a> Li J., Li, J., Zhu L., Xiang X., Huang T., Tian Y.
-*[Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection](https://ieeexplore.ieee.org/document/9749022/)*  
+- <a name="Li22TIP"></a> Li, J., Li, J., Zhu, L., Xiang, X., Huang, T., Tian Y.
+*[Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection](https://ieeexplore.ieee.org/document/9749022/)*,  
 IEEE Transactions on Image Processing. 2022.
-- <a name="Fang21NIPS"></a> Fang W., Yu Z., Chen Y., Huang T., Masquelier T., Tian Y.   
-*[Deep residual learning in spiking neural networks](https://ieeexplore.ieee.org/document/9749022/)*  
+- <a name="Fang21NIPS"></a> Fang, W., Yu, Z., Chen, Y., Huang, T., Masquelier, T., Tian, Y.   
+*[Deep residual learning in spiking neural networks](https://ieeexplore.ieee.org/document/9749022/)*,   
 NeurlPS 2021. [PDF](https://openreview.net/pdf?id=6OoCDvFV4m)
-- <a name="Zhu22arXiV"></a> Zhu L., Wang X., Chang Y., Li J., Huang T., Tian Y.  
+- <a name="Zhu22arXiV"></a> Zhu, L., Wang, X., Chang, Y., Li J., Huang, T., Tian, Y.  
 *[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://arxiv.org/abs/2201.10943)*  
 arXiv 2022.
 
+
+## IPC @ TJU
+同济大学智能感知与计算课题组  
+**Team Leader**: 陈广（研究员）  
+**实验室主页**: [https://ispc-group.github.io/](https://ispc-group.github.io/)    
+**部分研究成果**：
+- <a name="Chen22TCyber"></a> Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.  
+*Neuromorphic Vision-based Fall Localization in Event Streams with Temporal Spatial Attention Weighted Network*  
+IEEE TRANSACTIONS ON CYBERNETICS, 2022. [Code](https://github.com/ispc-lab/NeuroFall)
+- <a name="Miao19fnbot"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., Knoll, A.,  
+*[Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection](https://doi.org/10.3389/fnbot.2019.00038),*  
+Front. Neurorobot, 2019. [Dataset](https://github.com/MSZTY/PAFBenchmark)
+- <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
+*[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
+Front. Neurosci, 2019.
+
+
+## MPL @ 上海科技大学
+上海科技大学Mobile Perception Lab  
+**Team Leader**: Laurent Kneip (Prof.)  
+**实验室主页**: [https://mpl.sist.shanghaitech.edu.cn/](https://mpl.sist.shanghaitech.edu.cn/)  
+**部分研究成果**：
+- <a name="Zuo22icra"></a>Zuo, Y., Yang, J., Chen, J., Wang, X., Wang, Y., Kneip, L.,  
+*[DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions](https://arxiv.org/abs/2202.02556)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/abs/2202.02556), [YouTube](https://www.youtube.com/watch?v=RqAAA4MOqRI)
+- <a name="Huang21iros"></a>Huang, K., Wang, Y., Kneip, L.,  
+*[Dynamic Event Camera Calibration](https://arxiv.org/abs/2107.06749)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https://www.bilibili.com/video/BV1ey4y1j7Ke?share_source=copy_web), [Code](https://github.com/MobilePerceptionLab/EventCameraCalibration).
+- <a name="Zuo21IROS"></a>Zuo, Y., Cui, L., Peng, X., Xu, Y., Gao, S., Wang, X., Kneip, L.,  
+*[Accurate depth estimation from a hybrid event-RGB stereo setup](https://ieeexplore.ieee.org/document/9635834/authors#authors)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.  
 
 
 # Acknowledgement
