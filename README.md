@@ -69,6 +69,24 @@ IEEE Transactions on Neural Networks and Learning Systems 2021.
 *[DashNet: A Hybrid Artificial and Spiking Neural Network for High-speed Object Tracking](https://arxiv.org/abs/1909.12942)*  
 IEEE Transactions on Neural Networks and Learning Systems 2021. [PDF](https://arxiv.org/pdf/1909.12942.pdf)
 
+
+## 北京大学 黄铁军
+北京大学前沿计算研究中心  
+**Team Leader**：黄铁军（教授）  
+**个人主页**： [北大官网](https://idm.pku.edu.cn/info/1017/1040.htm) [Google Scholar](https://scholar.google.com/citations?user=knvEK4AAAAAJ&hl=zh-CN)  
+**部分研究成果**：
+- <a name="Li22TIP"></a> Li J., Li, J., Zhu L., Xiang X., Huang T., Tian Y.
+*[Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection](https://ieeexplore.ieee.org/document/9749022/)*  
+IEEE Transactions on Image Processing. 2022.
+- <a name="Fang21NIPS"></a> Fang W., Yu Z., Chen Y., Huang T., Masquelier T., Tian Y.   
+*[Deep residual learning in spiking neural networks](https://ieeexplore.ieee.org/document/9749022/)*  
+NeurlPS 2021. [PDF](https://openreview.net/pdf?id=6OoCDvFV4m)
+- <a name="Zhu22arXiV"></a> Zhu L., Wang X., Chang Y., Li J., Huang T., Tian Y.  
+*[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://arxiv.org/abs/2201.10943)*  
+arXiv 2022.
+
+
+
 # Acknowledgement
 Thanks for following people who provide useful links:  
 Prof. Yu Lei, from [DVS-WHU](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#dvs-whu-group--%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6)  
