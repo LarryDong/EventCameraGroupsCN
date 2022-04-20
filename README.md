@@ -56,7 +56,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021.
 
 ## CBICR @ THU
 清华大学类脑计算研究中心  
-**Team Leader**: 施路平（教授）  
+**Team Leader**: 施路平（教授），  
 **实验室主页**：暂缺待填补  
 **部分研究成果**：  
 - <a name="Li17Neurosci"></a>Hongmin, L., Hanchao, L., Xiangyang, J., Guoqi, L., Luping S.   
@@ -75,4 +75,5 @@ Prof. Yu Lei, from [DVS-WHU](https://github.com/LarryDong/EventCameraGroupsCN/ed
 [lyh983012](https://github.com/lyh983012), from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#cbicr--thu)  
 
 # TODOs
-References are not formatted well. To be corrected.
+- References are not formatted well. To be corrected.
+- Dr. [Xiao Wang's](https://sites.google.com/view/xiaowanghomepage/) information from Pengcheng Laboratory. 
