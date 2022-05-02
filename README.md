@@ -5,7 +5,7 @@
 # 团队
 明确围绕事件相机进行相关研究的团队。
 
-## 智能相机实验室(Camera Intelligence Lab, CI Lab) @ 北京大学
+## 智能相机实验室(CI Lab) @ 北京大学
 **Team Leader**：施柏鑫（研究员）  
 **实验室主页**：[https://ci.idm.pku.edu.cn/index.htm](https://ci.idm.pku.edu.cn/index.htm)  
 **部分研究成果**：
@@ -70,17 +70,17 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https:/
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.  
 
 
-## 智能感知与计算课题组(Intelligent Perception and Computing Lab, IPC) @ 同济大学
+## 智能感知与计算课题组(IPC) @ 同济大学
 **Team Leader**：陈广（研究员）  
 **实验室主页**：[https://ispc-group.github.io/](https://ispc-group.github.io/)    
 **部分研究成果**：
 - <a name="Chen22TCyber"></a> Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
-*Neuromorphic Vision-based Fall Localization in Event Streams with Temporal Spatial Attention Weighted Network*  
+*Neuromorphic Vision-based Fall Localization in Event Streams with Temporal Spatial Attention Weighted Network*,  
 IEEE TRANSACTIONS ON CYBERNETICS, 2022. [Code](https://github.com/ispc-lab/NeuroFall)
 - <a name="Miao19fnbot"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., Knoll, A.,  
 *[Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection](https://doi.org/10.3389/fnbot.2019.00038),*  
 Front. Neurorobot, 2019. [Dataset](https://github.com/MSZTY/PAFBenchmark)
-- <a name="Chen19fnins"></a> Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
+- <a name="Chen19fnins"></a> Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.,  
 *[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
 Front. Neurosci, 2019.
 
@@ -89,23 +89,22 @@ Front. Neurosci, 2019.
 # 个人
 没有明确围绕事件相机进行相关研究的团队，但个人主页有提到相关研究方向，且相关论文有3+篇
 
-## 北京大学前沿计算研究中心，黄铁军（教授）
-
 
 ## 鹏城实验室，王逍 (Postdoctoral Researcher)
 **个人主页**：[https://sites.google.com/view/xiaowanghomepage](https://sites.google.com/view/xiaowanghomepage)  
 **github**：[https://github.com/wangxiao5791509](https://github.com/wangxiao5791509)  
 **部分研究成果**：
 - <a name="Zhu22CVPR"></a> Zhu, L., Wang, X., Chang, Y., Li J., Huang, T., Tian, Y.,  
-*[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://arxiv.org/abs/2201.10943)*  
+*[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://arxiv.org/abs/2201.10943)*,    
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2022. [PDF](https://arxiv.org/pdf/2201.10943)  
 - <a name="Wang21Arxiv"></a> Wang, X., Li, J., Zhu, L., Zhang, Z., Chen, Z., Li, X., Wang, Y., Tian, Y., Wu, Feng.,  
-*[VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows](https://arxiv.org/abs/2108.05015)* 
+*[VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows](https://arxiv.org/abs/2108.05015)*,  
 arXiv 2021. [PDF](https://arxiv.org/pdf/2108.05015), [Dataset](https://sites.google.com/view/viseventtrack/)
 - <a name="Li2022AAAI"></a> Li, J., Wang, X., Zhu, L., Li, J., Huang, T., Tian, Y.,  
-*[Retinomorphic Object Detection in Asynchronous Visual Streams](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwibkp7rg8D3AhVIDN4KHVutB5gQFnoECAQQAQ&url=https%3A%2F%2Fwww.aaai.org%2FAAAI22Papers%2FAAAI-1396.LiJ.pdf&usg=AOvVaw05y6k6wHTq9AxrwVTXeAwp)* 
+*[Retinomorphic Object Detection in Asynchronous Visual Streams](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwibkp7rg8D3AhVIDN4KHVutB5gQFnoECAQQAQ&url=https%3A%2F%2Fwww.aaai.org%2FAAAI22Papers%2FAAAI-1396.LiJ.pdf&usg=AOvVaw05y6k6wHTq9AxrwVTXeAwp)*,  
 Association for the Advancement of Artificial Intelligence (AAAI) 2022.  
 
+## 北京大学前沿计算研究中心，黄铁军（教授）
 **Team Leader**：黄铁军（教授）  
 **个人主页**： [北大官网](https://idm.pku.edu.cn/info/1017/1040.htm) [Google Scholar](https://scholar.google.com/citations?user=knvEK4AAAAAJ&hl=zh-CN)  
 **部分研究成果**：
