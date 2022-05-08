@@ -4,6 +4,7 @@
 
 **相关链接**：[国内事件相机相关公司与企业](https://github.com/LarryDong/EventCameraCompaniesCN)
 
+<br>
 
 # 团队
 明确围绕事件相机进行相关研究的团队。
@@ -107,6 +108,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 **部分研究成果**：待产出  
 
 
+<br>
+
 # 个人
 没有明确围绕事件相机进行相关研究的团队，但个人主页有提到相关研究方向，且相关论文有3+篇
 
@@ -150,6 +153,8 @@ International Conference on Pattern Recognition (ICPR), 2020.
 - <a name="Kong20Arxiv"></a> Kong, D., Fang, Z., Li, H., Hou, K., Coleman, S., Kerr, D.,  
 *[Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition](https://arxiv.org/abs/2011.03290)*,  
 arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
+
+<br>
 
 # Acknowledgement
 Thanks for following people who provide useful links:  
