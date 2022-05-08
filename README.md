@@ -85,6 +85,24 @@ Front. Neurorobot, 2019. [Dataset](https://github.com/MSZTY/PAFBenchmark)
 Front. Neurosci, 2019.
 
 
+## 山东大学-锐思智芯事件驱动视觉实验室 @ 山东大学
+**Team Leader**：沈益冉（教授）  
+**个人主页**：[http://yiranshen.academic.site](http://yiranshen.academic.site)    
+**部分研究成果**：
+- <a name="Wang21tpami"></a>Wang. Y., Zhang, X., Shen, Y., Du, B., Zhao, G., Lizhen, L. C. C., Wen, H.,  
+*[Event-Stream Representation for Human Gaits Identification Using Deep Neural Networks](https://doi.org/10.1109/TPAMI.2021.3054886)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021. [Code](https://github.com/zhangxiann/TPAMI_Gait_Identification).
+- <a name="Wang19cvpr"></a>Wang, Y., Du, B., Shen, Y., Wu, K., Zhao, G., Sun, J., Wen, H.,  
+*[EV-Gait: Event-Based Robust Gait Recognition Using Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_EV-Gait_Event-Based_Robust_Gait_Recognition_Using_Dynamic_Vision_Sensors_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
+
+
+## 锐思智芯-深港微电子学院联合实验室 @ 南方科技大学
+**Team Leader**：刘晓光（教授）  
+**个人主页**：[https://sme.sustech.edu.cn/en/index/teacher/neiye/id/72.html](https://sme.sustech.edu.cn/en/index/teacher/neiye/id/72.html)  
+**News**：[签约南方科技大学，“锐思智芯-深港微电子学院联合实验室”正式成立 ](https://mp.weixin.qq.com/s/pA3zYCMqXCCmucWzhgiJcQ)  
+**部分研究成果**：待产出  
+
 
 # 个人
 没有明确围绕事件相机进行相关研究的团队，但个人主页有提到相关研究方向，且相关论文有3+篇
