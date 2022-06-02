@@ -26,23 +26,6 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](http://op
 *[Reconstructing Clear Image for High-Speed Motion Scene With a Retina-Inspired Spike Camera](https://ieeexplore.ieee.org/abstract/document/9655493)*,  
  IEEE Transactions on Computational Imaging (TCI), 2021. [PDF](https://ci.idm.pku.edu.cn/Duan_TPAMI21.pdf)
  
- 
-## DVS-WHU Group @ 武汉大学 
-**Team Leader**：余磊（副教授）  
-**实验室主页**：[http://dvs-whu.cn](http://dvs-whu.cn)  
-**部分研究成果**：  
-- <a name="Su20icip"></a> Su, B., Yu, L., Yang, W.,  
-*[Event-Based High Frame-Rate Video Reconstruction With A Novel Cycle-Event Network](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
-IEEE Int. Conf. Image Processing (ICIP), 2020.  
-- <a name="Xu21iccv"></a> Xu, F., Yu, L., Wang, B., Yang, W., Xia, G., Jia, X., Qiao, Z., Liu, J.,  
-*[Motion Deblurring With Real Events ](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
-Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Motion_Deblurring_With_ICCV_2021_supplemental.pdf), [Code](https://github.com/xufangchn/Motion-Deblurring-with-Real-Events)
-- <a name="Zhang21CVPR"></a> Wang, B., He, J., Yu, L., Xia, G., Yang, W.,  
-*[Event-based Synthetic Aperture Imaging with a Hybrid Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. 
-[PDF](http://arxiv.org/abs/2103.02376), [Code](https://github.com/dvs-whu/E-SAI), [YouTube](https://youtu.be/vom7qcZ7t9Y), [Youku](https://v.youku.com/v_show/id_XNTE3MzczMzc2MA==.html)  
-- <a name="Yu21AAS"></a> 余磊,廖伟,周游龙,杨文,夏桂松.基于事件相机的合成孔径成像[J/OL].自动化学报:1-14[2022-04-05].DOI:10.16383/j.aas.c200388.
-
 
 ## 类脑计算研究中心(CBICR) @ 清华大学
 **Team Leader**：施路平（教授）  
@@ -158,6 +141,8 @@ arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
 
 # Acknowledgement
 Thanks for following people who provide useful links:  
-Prof. Yu Lei, from [DVS-WHU](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#dvs-whu-group--%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6)  
 [lyh983012](https://github.com/lyh983012), from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#cbicr--thu)  
 
+# 声明
+整理本文档目的仅为学术交流，先后顺序也仅为我整理时发现的先后顺序。  
+如有不当之处，请联系修改或删除(jfjxxdy2007@126.com)。
