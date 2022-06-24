@@ -61,15 +61,19 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 **Team Leader**：陈广（研究员）  
 **实验室主页**：[https://ispc-group.github.io/](https://ispc-group.github.io/)    
 **部分研究成果**：
+- <a name="Liu2022ICRA"></a> Liu, P., Chen, G., Li, Z., Tang, H., Knoll, A.,    
+*Learning Local Event-based Descriptor for Patch-based Stereo Matching*,  
+EEE International Conference on Robotics and Automation (ICRA), 2022.
+- <a name="Cao22TIM"></a> Cao, H., Chen, G., Li, Z., Hu, Y., Knoll, A.,    
+*NeuroGrasp: Multi-modal Neural Network with Euler Region Regression for Neuromorphic Vision-based Grasp Pose Estimation*,  
+IEEE Transactions on Instrumentation & Measurement, 2022.  
 - <a name="Chen22TCyber"></a> Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
 *Neuromorphic Vision-based Fall Localization in Event Streams with Temporal Spatial Attention Weighted Network*,  
 IEEE TRANSACTIONS ON CYBERNETICS, 2022. [Code](https://github.com/ispc-lab/NeuroFall)
-- <a name="Miao19fnbot"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., Knoll, A.,  
-*[Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection](https://doi.org/10.3389/fnbot.2019.00038),*  
-Front. Neurorobot, 2019. [Dataset](https://github.com/MSZTY/PAFBenchmark)
-- <a name="Chen19fnins"></a> Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.,  
-*[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
-Front. Neurosci, 2019.
+- <a name="Cao21Sensors"></a> Cao, H., Chen, G., Xia, J., Zhuang, G., Knoll, A.,    
+*Fusion-based Feature Attention Gate Component for Vehicle Detection based on Event Camera*,  
+IEEE Sensors Journal, 2021.
+
 
 
 ## 山东大学-锐思智芯事件驱动视觉实验室 @ 山东大学
@@ -141,7 +145,10 @@ arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
 
 # Acknowledgement
 Thanks for following people who provide useful links:  
-[lyh983012](https://github.com/lyh983012), from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN/edit/main/README.md#cbicr--thu)  
+[lyh983012](https://github.com/lyh983012), from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN#%E7%B1%BB%E8%84%91%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83cbicr--%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)  
+Prof. Guang Chen from [IPC](https://github.com/LarryDong/EventCameraGroupsCN#%E7%B1%BB%E8%84%91%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83cbicr--%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)
+
+<br>
 
 # 声明
 整理本文档目的仅为学术交流，先后顺序也仅为我整理时发现的先后顺序。  
