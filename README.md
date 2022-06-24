@@ -146,7 +146,7 @@ arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
 # Acknowledgement
 Thanks for following people who provide useful links:  
 [lyh983012](https://github.com/lyh983012), from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN#%E7%B1%BB%E8%84%91%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83cbicr--%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)  
-Prof. Guang Chen from [IPC](https://github.com/LarryDong/EventCameraGroupsCN#%E7%B1%BB%E8%84%91%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83cbicr--%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)
+Prof. Guang Chen from [IPC](https://github.com/LarryDong/EventCameraGroupsCN#%E6%99%BA%E8%83%BD%E6%84%9F%E7%9F%A5%E4%B8%8E%E8%AE%A1%E7%AE%97%E8%AF%BE%E9%A2%98%E7%BB%84ipc--%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6)
 
 <br>
 
