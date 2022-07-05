@@ -95,6 +95,19 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 **部分研究成果**：待产出  
 
 
+## 大连理工大学-计算机科学与技术学院，杨鑫（教授）
+**Team Leader**：杨鑫（教授）  
+**个人主页**：[https://xinyangdut.github.io](https://xinyangdut.github.io)，[学校官网](http://faculty.dlut.edu.cn/yangxin/zh_CN/index.htm)  
+**部分研究成果**：
+- <a name="Zhang22CVPR"></a> Zhang, J., Dong, B., Zhang, H., Ding, J., Heide, F., Yin, B., Yang, X.  
+*[Spiking Transformers for Event-based Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Code](https://github.com/Jee-King/CVPR2022_STNet)[Youtube](https://youtu.be/iRkgBy0V1Dk) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf).
+- <a name="Zhang21ICCV"></a> Zhang, J., Yang, X., Fu, Y., Wei, X., Yin, B., Dong, B.  
+*[Object Tracking by Jointly Exploiting Frame and Event Domain](https://arxiv.org/abs/2109.09052)*,  
+IEEE International Conference on Computer Vision (ICCV), 2021. [dataset](https://zhangjiqing.com/dataset/) [code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)  
+- <a name="Qiang22ZDXB"></a> 朱强, 王超毅, 张吉庆, 尹宝才, 魏小鹏, 杨鑫.基于事件相机的无人机目标跟踪[J]. 浙江大学学报（理学版）. 2022, 49(01).
+
+
 <br>
 
 # 个人
