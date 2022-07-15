@@ -154,6 +154,23 @@ International Conference on Pattern Recognition (ICPR), 2020.
 *[Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition](https://arxiv.org/abs/2011.03290)*,  
 arXiv, 2020. [PDF](https://arxiv.org/pdf/2011.03290)
 
+
+## 时识科技，Yu Zhang（Research Director）  
+**个人主页**：[https://zhangyulb.github.io/](https://zhangyulb.github.io/)  
+**部分研究成果**：
+- <a name="Yu22ECCV"></a> Yu, Z., Zhang, Y., Xiang, X., Zou, D., Chen, X., Ren, J.,    
+*Deep Bayesian Video Frame Interpolation*,  
+European Conference on Computer Vision (ECCV), 2022.  
+- <a name="Gu21ACM"></a> Yu, Z., Zhang, Y., Liu, D., Zou, D., Chen, X., Liu, Y., Ren, J.,  
+*[Training Weakly Supervised Video Frame Interpolation with Events](https://dlnext.acm.org/doi/abs/10.1145/3474085.3475229)*,  
+IEEE International Conference on Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.pdf) [Code](https://github.com/iCVTEAM/LETGAN)  
+- <a name="Gu21ACM"></a> Gu, D., Li, J., Zhang, Y., Tian, Y.,  
+*[How to Learn a Domain Adaptive Event Simulator](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.pdf)*,  
+Proceedings of the ACM International Conference on Multimedia (ACM MM), 2021. [Code](https://github.com/YU-Zhiyang/WEVI)  
+
+
+Training Weakly Supervised Video Frame Interpolation with Events 
+
 <br>
 
 # Acknowledgement
