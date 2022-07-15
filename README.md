@@ -65,13 +65,13 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 *Learning Local Event-based Descriptor for Patch-based Stereo Matching*,  
 EEE International Conference on Robotics and Automation (ICRA), 2022.
 - <a name="Cao22TIM"></a> Cao, H., Chen, G., Li, Z., Hu, Y., Knoll, A.,    
-*NeuroGrasp: Multi-modal Neural Network with Euler Region Regression for Neuromorphic Vision-based Grasp Pose Estimation*,  
+*[NeuroGrasp: Multi-modal Neural Network with Euler Region Regression for Neuromorphic Vision-based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342/)*,  
 IEEE Transactions on Instrumentation & Measurement, 2022.  
 - <a name="Chen22TCyber"></a> Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
-*Neuromorphic Vision-based Fall Localization in Event Streams with Temporal Spatial Attention Weighted Network*,  
+*[Neuromorphic Vision-based Fall Localization in Event Streams with Temporal Spatial Attention Weighted Network](https://ieeexplore.ieee.org/abstract/document/9771080/)*,  
 IEEE TRANSACTIONS ON CYBERNETICS, 2022. [Code](https://github.com/ispc-lab/NeuroFall)
 - <a name="Cao21Sensors"></a> Cao, H., Chen, G., Xia, J., Zhuang, G., Knoll, A.,    
-*Fusion-based Feature Attention Gate Component for Vehicle Detection based on Event Camera*,  
+*[Fusion-based Feature Attention Gate Component for Vehicle Detection based on Event Camera](https://ieeexplore.ieee.org/abstract/document/9546775)*,  
 IEEE Sensors Journal, 2021.
 
 
