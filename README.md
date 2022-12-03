@@ -99,10 +99,14 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 **Team Leader**：杨鑫（教授）  
 **个人主页**：[https://xinyangdut.github.io](https://xinyangdut.github.io)，[学校官网](http://faculty.dlut.edu.cn/yangxin/zh_CN/index.htm)  
 **部分研究成果**：
-- <a name="Zhang22CVPR"></a> Zhang, J., Dong, B., Zhang, H., Ding, J., Heide, F., Yin, B., Yang, X.  
+- <a name="Zhang22CVPR"></a> Ding, J., Dong, B., Heide, F., Ding, Y., Zhou, Y., Yin, B., Yang, X.,  
+*[Biologically Inspired Dynamic Thresholds for Spiking Neural Networks](https://xinyangdut.github.io/intelligent_bionic_system/index.html)*,  
+NeurIPS, 2022. [Project Page 1](https://xinyangdut.github.io/intelligent_bionic_system/index.html), [Project Page 2](https://light.princeton.edu/publication/biologically-inspired-dynamic-thresholds-for-spiking-neural-networks/), [PDF](https://arxiv.org/pdf/2206.04426.pdf).
+
+- <a name="Zhang22CVPR"></a> Zhang, J., Dong, B., Zhang, H., Ding, J., Heide, F., Yin, B., Yang, X.,  
 *[Spiking Transformers for Event-based Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Code](https://github.com/Jee-King/CVPR2022_STNet)[Youtube](https://youtu.be/iRkgBy0V1Dk) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf).
-- <a name="Zhang21ICCV"></a> Zhang, J., Yang, X., Fu, Y., Wei, X., Yin, B., Dong, B.  
+- <a name="Zhang21ICCV"></a> Zhang, J., Yang, X., Fu, Y., Wei, X., Yin, B., Dong, B.,  
 *[Object Tracking by Jointly Exploiting Frame and Event Domain](https://arxiv.org/abs/2109.09052)*,  
 IEEE International Conference on Computer Vision (ICCV), 2021. [dataset](https://zhangjiqing.com/dataset/) [code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)  
 - <a name="Qiang22ZDXB"></a> 朱强, 王超毅, 张吉庆, 尹宝才, 魏小鹏, 杨鑫.基于事件相机的无人机目标跟踪[J]. 浙江大学学报（理学版）. 2022, 49(01).
@@ -176,7 +180,8 @@ Training Weakly Supervised Video Frame Interpolation with Events
 # Acknowledgement
 Thanks for following people who provide useful links:  
 [lyh983012](https://github.com/lyh983012), from [CBICR](https://github.com/LarryDong/EventCameraGroupsCN#%E7%B1%BB%E8%84%91%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83cbicr--%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)  
-Prof. Guang Chen from [IPC](https://github.com/LarryDong/EventCameraGroupsCN#%E6%99%BA%E8%83%BD%E6%84%9F%E7%9F%A5%E4%B8%8E%E8%AE%A1%E7%AE%97%E8%AF%BE%E9%A2%98%E7%BB%84ipc--%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6)
+Prof. Guang Chen from [IPC](https://github.com/LarryDong/EventCameraGroupsCN#%E6%99%BA%E8%83%BD%E6%84%9F%E7%9F%A5%E4%B8%8E%E8%AE%A1%E7%AE%97%E8%AF%BE%E9%A2%98%E7%BB%84ipc--%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6)  
+Ding, J. from Prof. [Yang's group](https://github.com/LarryDong/EventCameraGroupsCN#%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%E6%9D%A8%E9%91%AB%E6%95%99%E6%8E%88) in DUT. 
 
 <br>
 
