@@ -4,6 +4,8 @@
 
 **相关链接**：[国内事件相机相关公司与企业](https://github.com/LarryDong/EventCameraCompaniesCN)
 
+**由于个人研究内容变化，此repo暂时不计划更新。**
+
 <br>
 
 # 团队
